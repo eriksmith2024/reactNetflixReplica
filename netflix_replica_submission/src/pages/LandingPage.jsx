@@ -1,5 +1,5 @@
 import CreateKidsProfile from "../components/CreateKidsProfile/CreateKidsProfile";
-import DownloadShows from "../components/downloadShows/DownloadShows";
+import DownloadShows from "../components/DownloadShows/DownloadShows";
 import FAQ from "../components/FAQ/FAQ";
 import Hero from "../components/Hero/Hero";
 import TvEnjoy from "../components/TvEnjoy/TvEnjoy";
